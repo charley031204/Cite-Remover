@@ -1,0 +1,10 @@
+{
+	"id": "cite-remover-plugin",
+	"name": "Cite Tag Remover",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Removes [cite_start] and [cite: ...] tags from markdown files.",
+	"author": "Me",
+	"authorUrl": "",
+	"isDesktopOnly": false
+}
